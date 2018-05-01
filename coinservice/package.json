@@ -1,0 +1,17 @@
+{
+  "name": "coinservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findallcoins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Srinivas Jasti",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.35",
+    "restify": "^6.4.0",
+    "restify-cors-middleware": "^1.1.0"
+  }
+}
