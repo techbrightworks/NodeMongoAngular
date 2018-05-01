@@ -11,3 +11,4 @@ npm init -y
 npm install --save mongodb@2.2.35
 npm install restify@6.4.0 --save --no-optional
 npm install restify-cors-middleware@1.1.0
+node service.js
